@@ -1,0 +1,17 @@
+[
+ {
+ "dock_id": "A-1", "label": "Sas Aster",
+ "kind": "crew", "state": "OPEN",
+ "limit_tons": 12, "max_people": 6
+ },
+ {
+ "dock_id": "B-2", "label": "Quai Helios",
+ "kind": "cargo", "state": "BLOCKED",
+ "limit_tons": 40, "crane_count": 2
+ },
+ {
+ "dock_id": "C-3", "label": "Nacelle Vega",
+ "kind": "service", "state": "OPEN",
+ "limit_tons": 8, "tool_station": "R2"
+ }
+]
